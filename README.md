@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM Coursera Capstone
+IBM DS Coursera Capstone
